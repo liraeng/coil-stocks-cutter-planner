@@ -1,0 +1,3 @@
+# ignore the venv directory
+venv/
+.idea/
